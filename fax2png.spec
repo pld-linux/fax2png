@@ -1,5 +1,5 @@
 Summary:	fax2png - 1-bit multipage TIFF (fax or scan) to PNG image converter
-Summary(pl.UTF-8):   fax2png - konwerter 1-bitowych, wielostronnych obrazów TIFF (faksów lub skanów) do PNG
+Summary(pl.UTF-8):	fax2png - konwerter 1-bitowych, wielostronnych obrazów TIFF (faksów lub skanów) do PNG
 Name:		fax2png
 Version:	1.0
 Release:	1
