@@ -1,5 +1,5 @@
 Summary:	fax2png - 1-bit multipage TIFF (fax or scan) to PNG image converter
-Summary(pl):	fax2png - konwerter 1-bitowych, wielostronnych obrazÛw TIFF (faksÛw lub skanÛw) do PNG
+Summary(pl.UTF-8):   fax2png - konwerter 1-bitowych, wielostronnych obraz√≥w TIFF (faks√≥w lub skan√≥w) do PNG
 Name:		fax2png
 Version:	1.0
 Release:	1
@@ -19,12 +19,12 @@ performance overhead of netpbm-based solutions. Antialiasing is
 supported to produce attractive reductions to typical web browser
 widths. 90-degree-interval rotations and flips are also supported.
 
-%description -l pl
-fax2png wyci±ga podan± stronÍ z 1-bitowego, czarno-bia≥ego obrazu TIFF
-(jak fax) i wydajnie konwertuje go do formatu PNG bez wydajno∂ciowego
-narzutu jak w przypadku uøycia netpbm. Obs≥ugiwany jest antyaliasing w
-celu tworzenia ≥adniejszych pomniejszeÒ do rozdzielczo∂ci typowych dla
-przegl±darki WWW. Obs≥ugiwane s± takøe obroty co 90 stopni.
+%description -l pl.UTF-8
+fax2png wyciƒÖga podanƒÖ stronƒô z 1-bitowego, czarno-bia≈Çego obrazu TIFF
+(jak fax) i wydajnie konwertuje go do formatu PNG bez wydajno≈õciowego
+narzutu jak w przypadku u≈ºycia netpbm. Obs≈Çugiwany jest antyaliasing w
+celu tworzenia ≈Çadniejszych pomniejsze≈Ñ do rozdzielczo≈õci typowych dla
+przeglƒÖdarki WWW. Obs≈Çugiwane sƒÖ tak≈ºe obroty co 90 stopni.
 
 %prep
 %setup -q -n %{name}
